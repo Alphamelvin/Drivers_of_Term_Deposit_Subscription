@@ -1,7 +1,7 @@
 **# Drivers_of_Term_Deposit_Subscription**
 
 **Dataset Description:**
-This is a dashboard analysis identifying key factors influencing term deposit subscriptions using Power BI. This dataset originates from direct marketing campaigns conducted by a Portuguese banking institution. The campaigns primarily involved telephone outreach, often requiring multiple calls to the same client to determine whether they would subscribe ("yes") or decline ("no") a term deposit product.
+This is a dashboard analysis identifying key factors influencing term deposit subscriptions using Power BI. This dataset originates from direct marketing campaigns conducted by a Portuguese banking institution (as found in https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing). The campaigns primarily involved telephone outreach, often requiring multiple calls to the same client to determine whether they would subscribe ("yes") or decline ("no") a term deposit product.
 
 **Project Overview:**
 This dashboard explores the key factors influencing whether customers subscribe to term deposits at the Portuguese banking institution. It leverages demographic, behavioral, and campaign-related data to help decision-makers understand what drives successful marketing outcomes. By visualizing the data interactively, it enables business leaders to target the right segments more effectively and optimize their campaign strategies.
