@@ -28,7 +28,7 @@ Education level, housing, and loan status show mixed influence, with no signific
 
 ![Subscription by Age Group](images/Subscription_by_Age_Group.png)
 
-The chart on subscription by Age Group reveals that both the elderly (60+) and the very young (under 20) are the most likely to subscribe to term deposits, each with subscription rates nearing 45–50%. For older adults, this trend is expected due to their focus on retirement and stable income sources like pensions. The high rate among younger individuals is more surprising and may be influenced by parental guidance or account management, or possibly a small sample size tilting the results.
+This bar chart on subscription by Age Group reveals that both the elderly (60+) and the very young (under 20) are the most likely to subscribe to term deposits, each with subscription rates nearing 45–50%. For older adults, this trend is expected due to their focus on retirement and stable income sources like pensions. The high rate among younger individuals is more surprising and may be influenced by parental guidance or account management, or possibly a small sample size tilting the results.
 
 On the other hand, subscription rates decline steadily among the 20–50 age range, hitting a low point between 41–50—likely due to financial pressures like housing, family responsibilities, or career instability. Rates begin to rise again for the 51–60 group as they approach retirement. These trends suggest the need for targeted financial messaging: emphasize stability and long-term planning for older adults, and explore what’s working for the youth to re-engage the middle-aged Portuguese population more effectively.
 
@@ -48,7 +48,7 @@ To maximize this engagement, outreach efforts should be customized by job type�
 
 ![Subscription by Education](images/Subscription_by_Education.png)
 
-The subscription by Education analysis of this Portuguese dataset reveals an unexpected trend which is that less formally educated individuals, including the illiterate, have the highest subscription rates with over 20%. This may stem from a higher level of trust in advice from bank personnel or a simpler, more straightforward approach to financial decision-making. In contrast, University graduates and those with unknown education levels show lower rates (around 14–15%), possibly due to more skepticism or vested interest in alternative investment options beyond term deposits.
+The subscription by Education analysis of this Portuguese dataset as potrayed using a bar chart reveals an unexpected trend which is that less formally educated individuals, including the illiterate, have the highest subscription rates with over 20%. This may stem from a higher level of trust in advice from bank personnel or a simpler, more straightforward approach to financial decision-making. In contrast, University graduates and those with unknown education levels show lower rates (around 14–15%), possibly due to more skepticism or vested interest in alternative investment options beyond term deposits.
 
 Mid-level education groups, such as those with high school or professional courses, perform moderately (10–12%), while basic education levels (4y, 6y, 9y) show the lowest engagement. **This pattern challenges the assumption that higher education leads to higher financial participation.** The recommendation is clear: do not rely solely on academic background as a predictor of financial behavior. Instead, customize marketing approaches by using relatable, benefit-driven messaging for less-educated groups and a smarter or more strategic messaging for educated customers.
 
@@ -68,22 +68,26 @@ The insight here is that saving in the Portuguese society is driven more by indi
 
 ![Subscription by Contact Method](images/Subscription_by_Contact_Method.png)
 
-The chart comparing contact methods shows a striking difference in effectiveness: cellular contact results in a 15% subscription rate, while traditional telephone contact lags behind at just 5%. This suggests that the Portuguese are far more responsive when reached on their mobile devices, likely because of the convenience and personal nature of mobile communication. The visual design reinforces this contrast, using bold bars to highlight cellular's dominance.
+This bar chart comparing contact methods shows a striking difference in effectiveness: cellular contact results in a 15% subscription rate, while traditional telephone contact lags behind at just 5%. This suggests that the Portuguese are far more responsive when reached on their mobile devices, likely because of the convenience and personal nature of mobile communication. The visual design reinforces this contrast, using bold bars to highlight cellular's dominance.
 
-******The key takeaway is clear: mobile outreach is the winning strategy. Banks and marketers should prioritize SMS campaigns, app notifications, or direct mobile calls. Staff should also be trained to communicate in a concise, approachable manner suited for mobile users. Understanding why telephone outreach underperforms whether due to timing, tone, or user preference could further improve engagement strategies. In today’s fast-paced world, meeting clients on their preferred platforms is essential to boosting subscription rates.******
+The key takeaway is clear: mobile outreach is the winning strategy. Banks and marketers should prioritize SMS campaigns, app notifications, or direct mobile calls. Staff should also be trained to communicate in a concise, approachable manner suited for mobile users. Understanding why telephone outreach underperforms whether due to timing, tone, or user preference could further improve engagement strategies. In today’s fast-paced world, meeting clients on their preferred platforms is essential to boosting subscription rates.
+
 ---
 
 ### 7. Subscription by Month and Date
 
 ![Subscription rate by Month and Date](images/Subscription_rate_by_Month_and_Date.png)
 
-The Subscription Rate by Month and Date chart reveals a strong seasonal pattern. July sees the highest subscription spike at 60%, followed by a steady decline to just 10% by May. There's also a clear weekday trend, with peaks on Fridays and Mondays, suggesting that people in Portugal are more inclined to act on financial decisions at the start or end of the workweek, possibly influenced by salary cycles, school schedules, or agricultural harvests.
+The line chart for Subscription Rate by Month and Date reveals a strong seasonal pattern. July sees the highest subscription spike at 60%, followed by a steady decline to just 10% by May. There's also a clear weekday trend, with peaks on Fridays and Mondays, suggesting that people in Portugal are more inclined to act on financial decisions at the start or end of the workweek, possibly influenced by salary cycles, school schedules, or agricultural harvests.
 
 To leverage this insight, financial institutions should plan major subscription campaigns around July, and time promotions or reminders for Fridays and Mondays, especially in the mornings. Understanding why enthusiasm wanes mid-year—perhaps due to financial fatigue or competing priorities—could help in designing incentives or awareness campaigns to maintain engagement. Timing, in this case, is not just data—it’s strategy.
 
-### 6. Subscription Rate by Month and Day
+---
 
-![Monthly Subscription Trends](images/subscription_by_month_day.png)
+### 6. Subscription by Default
 
-The subscription rate is highest in **March and May**, with noticeable drops from **August onward**. Tuesdays and Thursdays see slightly better conversion than other weekdays—ideal for campaign timing.
+![Subscription by Defaults](images/Subscription_by_Default.png)
 
+The Subscription by Default horizontal bar chart highlights a clear trend—individuals without any past loan defaults lead in term deposit subscriptions at 13%, showing a strong correlation between financial discipline and trust in savings products. Meanwhile, the “unknown” group accounts for 6%, indicating a segment that may be overlooked or simply uncertain about their credit standing.
+
+To build on this, Portuguese banks should recognize and reward financially disciplined clients, perhaps through loyalty bonuses or public recognition. For the “unknown” group, providing easy access to credit checks and personalized support like community outreach, market storms, cold calls or radio campaigns can help demystify their status and encourage participation because fostering financial confidence is key to driving greater inclusion.
