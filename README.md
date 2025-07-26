@@ -56,7 +56,7 @@ Mid-level education groups, such as those with high school or professional cours
 
 ### 5. Subscription by Housing and loan status
 
-![Subscription by Housing and Loan status](images/Subscription_by_Housing_and_ Loan_status.png)
+![Subscription by Housing and Loan status](images/Subscription_by_Housing_and_Loan_status.png)
 
 The Subscription by Housing and Loan Status stacked bar chart shows a relatively balanced distribution among clients with and without housing or loans, with 15% of subscriptions coming from those with loans or housing, and around 10% each from those without or with unknown status. This suggests that whether someone owns property, rents, or holds a loan doesn’t significantly impact their willingness to subscribe to a term deposit—people across different living situations are participating in savings.
 
