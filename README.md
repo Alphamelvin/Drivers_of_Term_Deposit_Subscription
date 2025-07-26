@@ -14,7 +14,7 @@ By making complex data easy to interpret, this dashboard empowers marketers, ana
 
 ## 📸 Visuals & Explanations
 
-### 1. Dashboard Overview
+### 1. Dashboard Overview.
 
 ![Drivers of Term Deposit Subscription Dashboard Overview](images/Term_Deposit_Subscriptions_Dashboard.png)
 
@@ -24,7 +24,7 @@ Education level, housing, and loan status show mixed influence, with no signific
 
 ---
 
-### 2. Subscription by Age Group
+### 2. Subscription by Age Group.
 
 ![Subscription by Age Group](images/Subscription_by_Age_Group.png)
 
@@ -34,7 +34,7 @@ On the other hand, subscription rates decline steadily among the 20–50 age ran
 
 ---
 
-### 3. Subscription by Job Type
+### 3. Subscription by Job Type.
 
 ![Subscription by Job Type](images/Subscription_by_Job_Type.png)
 
@@ -44,7 +44,7 @@ To maximize this engagement, outreach efforts should be customized by job type�
 
 ---
 
-### 4. Subscription by Education
+### 4. Subscription by Education.
 
 ![Subscription by Education](images/Subscription_by_Education.png)
 
@@ -54,7 +54,7 @@ Mid-level education groups, such as those with high school or professional cours
 
 ---
 
-### 5. Subscription by Housing and loan status
+### 5. Subscription by Housing and Loan status.
 
 ![Subscription by Housing and Loan status](images/Subscription_by_Housing_and_Loan_status.png)
 
@@ -64,7 +64,7 @@ The insight here is that saving in the Portuguese society is driven more by indi
 
 ---
 
-### 6. Subscription by Contact Method
+### 6. Subscription by Contact Method.
 
 ![Subscription by Contact Method](images/Subscription_by_Contact_Method.png)
 
@@ -74,7 +74,7 @@ The key takeaway is clear: mobile outreach is the winning strategy. Banks and ma
 
 ---
 
-### 7. Subscription by Month and Date
+### 7. Subscription by Month and Date.
 
 ![Subscription rate by Month and Date](images/Subscription_rate_by_Month_and_Date.png)
 
@@ -84,10 +84,18 @@ To leverage this insight, financial institutions should plan major subscription 
 
 ---
 
-### 6. Subscription by Default
+### 8. Subscription by Default.
 
 ![Subscription by Defaults](images/Subscription_by_Default.png)
 
 The Subscription by Default horizontal bar chart highlights a clear trend—individuals without any past loan defaults lead in term deposit subscriptions at 13%, showing a strong correlation between financial discipline and trust in savings products. Meanwhile, the “unknown” group accounts for 6%, indicating a segment that may be overlooked or simply uncertain about their credit standing.
 
 To build on this, Portuguese banks should recognize and reward financially disciplined clients, perhaps through loyalty bonuses or public recognition. For the “unknown” group, providing easy access to credit checks and personalized support like community outreach, market storms, cold calls or radio campaigns can help demystify their status and encourage participation because fostering financial confidence is key to driving greater inclusion.
+
+---
+
+## Summary and Conclusion.
+
+This dashboard offers a clear snapshot of a Portuguese bank’s effort to understand customer behavior around term deposit subscriptions. Out of 10,476 clients, roughly 3,000 have subscribed—an 11.3% success rate. The analysis dives into demographics like age and job type, along with communication methods and financial background, all to sharpen marketing strategies. It’s a data-driven approach to uncover who subscribes and why, revealing trends that can inform smarter, more targeted outreach.
+
+The insights are rich: older adults (60+) and even those under 20 are more inclined to subscribe, while the core 31–60 age group is less responsive. Job-wise, students and retirees top the list, though there's notable engagement from blue-collar workers and the unemployed. Mobile contact far outperforms landlines, and clients with no credit defaults are significantly more likely to sign up. Loan status (housing or personal) has minimal impact, but timing is everything—subscriptions peak in July and dip by May, with engagement strongest on Fridays and Mondays. These patterns suggest that personalized, well-timed, mobile-first campaigns targeting specific segments can greatly improve outcomes.
